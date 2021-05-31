@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development mainly in backend
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me twitter __ajityadav
+<!-- - 📫 How to reach me twitter __ajityadav -->
 
 <!---
 ajityd/ajityd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
