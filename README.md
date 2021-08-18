@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajityadav
 - 👀 I’m interested in software development mainly in backend
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning Spring
 - 💞️ I’m looking to collaborate on open source projects
 <!-- - 📫 How to reach me twitter __ajityadav -->
 
